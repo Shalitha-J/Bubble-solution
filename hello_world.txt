@@ -1,0 +1,1 @@
+just made it go to index.html and open the console or see the .js files 
